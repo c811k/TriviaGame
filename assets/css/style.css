@@ -1,0 +1,16 @@
+.container {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.display-4 {
+    font-size: 100px;
+}
+
+#questions {
+    padding-top: 15px;
+}
+
+.choices {
+    color: darkolivegreen;
+    font-weight: bold;
+}
